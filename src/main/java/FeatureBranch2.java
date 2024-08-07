@@ -1,0 +1,2 @@
+public class FeatureBranch2 {
+}
